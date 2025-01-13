@@ -6,6 +6,7 @@
 - 2.编辑该快捷指令，添加目的地的经纬度
 - 3.默认支持企业微信群机器人webhook，修改为自己的密钥，这里不再过多赘述
 
+##本人用的是iPhone15pm，因此暂时没测试其他屏幕尺寸的iPhone，
 
 ### iOS快捷指令
 Safari浏览器打开 https://www.icloud.com/shortcuts/06cb98d783ff4bf3b61c21d2f10bc656
