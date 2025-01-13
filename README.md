@@ -1,4 +1,4 @@
-# iOS-shortcuts-amap
+# iOS-shortcuts-amap-notification
 通过快捷指令，实现高德导航一键导航至指定目的地，并将总里程，剩余时间，到达时间，发送至企业微信群
 
 ## 使用
