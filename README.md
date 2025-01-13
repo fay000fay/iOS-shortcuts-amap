@@ -9,5 +9,6 @@
 `还有一种方案，*********************************************`
 
 ### iOS快捷指令
-Safari浏览器打开 https://www.icloud.com/shortcuts/********
+Safari浏览器打开 https://www.icloud.com/shortcuts/06cb98d783ff4bf3b61c21d2f10bc656
 
+![photo_2025-01-13_10-02-23](https://github.com/user-attachments/assets/d857fcd9-910d-4972-83a5-2fcff39dc39b)
